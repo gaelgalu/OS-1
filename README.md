@@ -1,2 +1,2 @@
 # OS-1
-Operating System: fork(), kill() and exec(). 
+Operating System: using fork(), exec() and kill().

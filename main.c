@@ -4,7 +4,6 @@ int main(int argc, char **argv) {
 
     int mflag = 0;
     int hflag = 0;
-    int index;
     int c;
     opterr = 0;
 
